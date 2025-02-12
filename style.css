@@ -63,3 +63,8 @@ select {
     border: none;
     outline: none;
 } 
+
+img {
+    width: 5rem;
+    border-radius: 5px;
+}
